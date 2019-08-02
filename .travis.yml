@@ -9,7 +9,7 @@ deploy:
   provider: elastibeanstalk
   region: "us-east-1"
   app: "react"
-  env: "react-env"
+  env: "React-env"
   bucket_name: "elasticbeanstalk-us-east-1-638242414502"
   bukcet_path: "react"
   on:
